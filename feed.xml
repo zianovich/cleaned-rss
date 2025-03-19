@@ -2,16 +2,15 @@
 <rss version="2.0">
   <channel>
     <title>Cleaned Telegram News</title>
-    <link>https://yourusername.github.io/cleaned-rss/</link>
-    <description>Cleaned RSS feed from Telegram</description>
-    <lastBuildDate>{{DATE}}</lastBuildDate>
+    <link>https://zianovich.github.io/cleaned-rss/</link>
+    <description>Cleaned RSS feed from Telegram posts</description>
+    <lastBuildDate>Tue, 19 Mar 2025 12:00:00 GMT</lastBuildDate>
 
-    <!-- Placeholder item -->
     <item>
       <title>Sample Headline</title>
       <link>https://example.com</link>
-      <pubDate>{{DATE}}</pubDate>
-      <description>Sample description here</description>
+      <pubDate>Tue, 19 Mar 2025 12:00:00 GMT</pubDate>
+      <description>This is a sample cleaned news post.</description>
     </item>
 
   </channel>
