@@ -3,14 +3,14 @@
   <channel>
     <title>Cleaned Telegram News</title>
     <link>https://zianovich.github.io/cleaned-rss/</link>
-    <description>Cleaned RSS feed from Telegram posts</description>
+    <description>Cleaned RSS feed from Telegram</description>
     <lastBuildDate>Tue, 19 Mar 2025 12:00:00 GMT</lastBuildDate>
 
     <item>
       <title>Sample Headline</title>
       <link>https://example.com</link>
       <pubDate>Tue, 19 Mar 2025 12:00:00 GMT</pubDate>
-      <description>This is a sample cleaned news post.</description>
+      <description>Sample description here</description>
     </item>
 
   </channel>
